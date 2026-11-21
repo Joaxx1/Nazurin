@@ -30,6 +30,10 @@ Without a key, the app shows ten built-in sample games. The key is never stored 
 
 Open the project in Apache NetBeans and press **Run Project** (F6).
 
+## Documentation
+
+The full project documentation (overview, scope, flowcharts, user manual with screenshots, source code, and references) is in [`docs/OOP_TEAM_NAZURIN_PROJECT_DOCUMENTATION.docx`](docs/OOP_TEAM_NAZURIN_PROJECT_DOCUMENTATION.docx).
+
 ## Where your data is saved
 
 Everything is kept in the `.nazurin` folder in your home folder: `library.json` holds your games, statuses, and reviews, and `covers/` holds downloaded cover pictures.
